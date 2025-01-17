@@ -1,0 +1,5 @@
+msgid "Boot at Start"
+msgstr "Boot at Start"
+
+msgid "Select Addon"
+msgstr "Piliin ang Addon"
