@@ -8,6 +8,10 @@
     <library>addon.py</library>
   </extension>
   <extension point="xbmc.addon.settings">
-    <setting id="selected_addon" type="select" label="Select Addon" />
+    <setting id="selected_addon" type="select" label="32001" />
   </extension>
+  <localized>
+    <localizedstring lang="en" key="32000">Boot at Start</localizedstring>
+    <localizedstring lang="en" key="32001">Select Addon</localizedstring>
+  </localized>
 </addon>
