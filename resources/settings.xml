@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <category label="General">
+    <setting id="selected_addon" type="select" label="Select Addon">
+      <option value="">Select an addon</option>
+    </setting>
+  </category>
+</settings>
